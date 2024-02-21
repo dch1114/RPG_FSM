@@ -24,3 +24,17 @@
 ## 개발 환경
 Unity Editor Version 2022.3.2f1   
 IDE: Visual Studio 2022
+
+## 게임 플레이
+
+<img src = "https://github.com/dch1114/RPG_FSM/assets/129824716/92e4fb51-4987-4f25-9cab-3e3ec6669ceb" width="400" height="300"/>
+
+---
+<img src = "https://github.com/dch1114/RPG_FSM/assets/129824716/2df35330-f78c-4e4e-a5f1-84d36e2554eb" width="400" height="300"/>
+
+---
+<img src = "https://github.com/dch1114/RPG_FSM/assets/129824716/b3ec2a7b-92e6-4e89-907d-88978725635e" width="400" height="300"/>
+
+---
+<img src = "https://github.com/dch1114/RPG_FSM/assets/129824716/294e812d-9bb0-4e79-b5f1-9b36e71eba78" width="400" height="300"/>
+
